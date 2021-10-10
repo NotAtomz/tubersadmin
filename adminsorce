@@ -3188,6 +3188,10 @@ end)
 while wait(30) do
 	game.StarterGui:SetCore("ChatMakeSystemMessage", {
     	Text = "TIP: do you know tubers93 made this script.";
+	Text = "TIP: i am in your house :).";
+	Text = "TIP: join tubers discord for more scripts.";
+	Text = "TIP: tubers is the best!.";
+	Text = "TIP: he says you are lucky cause i leaked my own script.";
     	Font = Enum.Font.SourceSansBold;
     	Color = Color3.fromRGB(255, 0, 255);
 	})
