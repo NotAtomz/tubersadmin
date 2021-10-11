@@ -74,8 +74,8 @@ local cmds = {
 	"65 savepos",
 	"66 loadpos",
 	"67 delpartscripts",
-    "68 backflip",
-    "69 frontflip",
+        "68 backflip",
+        "69 frontflip",
 	"70 spasm",
 	"71 dance1",
 	"72 dance2",
@@ -87,8 +87,8 @@ local cmds = {
 	"78 prefix [char]",
 	"79 unspasm",
 	"80 undance [not working]",
-    "81 osspoof",
-    "82 vr",
+        "81 osspoof",
+        "82 vr",
 	"83 bos",
 	"84 fogstart [int]",
 	"85 fogend [int]",
@@ -154,7 +154,7 @@ HWIntro.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 HWIntro.ResetOnSpawn = false
 
 H.Parent = HWIntro
-H.BackgroundColor3 = Color3.new(0.172549, 0.172549, 0.172549)
+H.BackgroundColor3 = Color3.new(1.00, 0.00, 0.00)
 H.BorderSizePixel = 0
 H.Position = UDim2.new(0.434221119, 0, 0.400000006, 0)
 H.Size = UDim2.new(0.0855528638, 0, 0.162393168, 0)
@@ -167,7 +167,7 @@ H.TextWrapped = true
 
 W.Archivable = false
 W.Parent = HWIntro
-W.BackgroundColor3 = Color3.new(0.172549, 0.172549, 0.172549)
+W.BackgroundColor3 = Color3.new(1.00, 0.00, 0.00)
 W.BorderSizePixel = 0
 W.Position = UDim2.new(0.497982204, 0, 0.454700857, 0)
 W.Size = UDim2.new(0.0855528638, 0, 0.162393168, 0)
